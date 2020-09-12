@@ -1,5 +1,5 @@
 <h1 align="center">
-	Minimalist Online Lobby API
+	Minimalist Online Lobby API [![Build Status](https://travis-ci.org/ptpham4/online-lobby-api.svg?branch=master)](https://travis-ci.org/ptpham4/online-lobby-api)
 </h1>
 
 
