@@ -1,7 +1,9 @@
 <h1 align="center">
-	Minimalist Online Lobby API [![Build Status](https://travis-ci.org/ptpham4/online-lobby-api.svg?branch=master)](https://travis-ci.org/ptpham4/online-lobby-api)
+	Minimalist Online Lobby API
 </h1>
-
+<div align="center">
+    <img src="https://travis-ci.org/ptpham4/online-lobby-api.svg?branch=master" href="Build Status">
+</div>
 
 ## About
 
