@@ -3,6 +3,7 @@
 </h1>
 <div align="center">
     <img src="https://travis-ci.org/ptpham4/online-lobby-api.svg?branch=master" href="Build Status">
+    <img src="https://img.shields.io/github/license/ptpham4/online-lobby-api" href="License">
 </div>
 
 ## About
