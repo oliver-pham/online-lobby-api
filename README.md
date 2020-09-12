@@ -17,13 +17,7 @@ Getting up and running is as easy as 1, 2, 3.
     ```
     npm install
     ```
-3. Configure your app & database connection
-
-    ```
-    node config.js
-    ```
-    
-4. Start your app
+3. Start your app
 
     ```
     npm start
